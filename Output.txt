@@ -1,0 +1,8 @@
+1414909921.0
+pio(read_count=3L, write_count=0L, read_bytes=30575L, write_bytes=0L)
+pmem(rss=15482880L, vms=7712768L)
+C:\Windows\System32\en-US\calc.exe.mui,C:\Windows\System32\en-US\setupapi.dll.mui,C:\Windows\Fonts\StaticCache.dat
+5866c10ade30f8f9c49e85487acdaeb2629bd51c
+0,4,3,0,30575,0,15482880,7712768,0,5866c10ade30f8f9c49e85487acdaeb2629bd51c
+0,4,3,0,30575,0,15482880,7712768,0,5866c10ade30f8f9c49e85487acdaeb2629bd51c
+['1414909921.0\n', 'pio(read_count=3L, write_count=0L, read_bytes=30575L, write_bytes=0L)\n', 'pmem(rss=15482880L, vms=7712768L)\n', 'C:\\Windows\\System32\\en-US\\calc.exe.mui,C:\\Windows\\System32\\en-US\\setupapi.dll.mui,C:\\Windows\\Fonts\\StaticCache.dat\n', '5866c10ade30f8f9c49e85487acdaeb2629bd51c\n', '0,4,3,0,30575,0,15482880,7712768,0,5866c10ade30f8f9c49e85487acdaeb2629bd51c\n', '0,4,3,0,30575,0,15482880,7712768,0,5866c10ade30f8f9c49e85487acdaeb2629bd51c\n']
